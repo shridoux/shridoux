@@ -1,6 +1,6 @@
 ---
 name: Shane Ridoux
-image: #INSERT HEADSHOT
+image: [](/Users/shane/School/CU Denver/First Year/Fall/Lab Rotation 2/Admin/BioHeadshot.heic)
 description: PRA
 role: pra
 links:
